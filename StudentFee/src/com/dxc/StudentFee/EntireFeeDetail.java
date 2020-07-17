@@ -35,7 +35,6 @@ public class EntireFeeDetail {
 	
 
 	public static void main(String[] args){
-		// TODO Auto-generated method stub
 		EntireFeeDetail mFeeObject=new EntireFeeDetail();
 		try
 		{
